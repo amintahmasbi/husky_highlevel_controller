@@ -1,0 +1,3 @@
+scan_topic: /scan
+control_topic: /cmd_vel
+controller_p_gain: 0.1
